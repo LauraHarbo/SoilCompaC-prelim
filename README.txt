@@ -7,8 +7,7 @@ The files within this repository contain the script used to run the baseline mod
 model (both random forest models), as well as the code for generating the figures, tables and running 
 the statistics included in the manuscript. 
 The data required to run the scripts and the scripts cleaning and reshaping the original data 
-are not available due to data protection requirements. However, the folder structure is intact, indicating 
-how the data has been handled. 
+are not available due to data protection requirements. 
 
 The scripts are shared to enable others to understand, copy and use the developed pathways in 
 their own work. 
